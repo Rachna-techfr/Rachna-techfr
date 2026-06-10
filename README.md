@@ -1,9 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rachna%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Building%20Intelligent%20Systems%20with%20Python%2C%20NLP%20%26%20GenAI&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Rachna%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20NLP%20%7C%20Computer%20Vision%20%7C%20GenAI&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Rachna+R+%F0%9F%91%8B;AI+%26+ML+Student+%7C+Coimbatore%2C+India;Building+Real-Time+AI+Systems+%F0%9F%A4%96;NLP+%7C+Computer+Vision+%7C+Generative+AI+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rachna+R+%F0%9F%91%8B;AI+%26+ML+Student+%7C+India;NLP+%7C+CV+%7C+GenAI+%F0%9F%9A%80;Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
 <br/>
