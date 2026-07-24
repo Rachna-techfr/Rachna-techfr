@@ -8,7 +8,7 @@
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```python
+
 class RachnaR:
     def __init__(self):
         self.name        = "Rachna R"
@@ -38,7 +38,7 @@ class RachnaR:
 
 me = RachnaR()
 print(me.motto())
-```
+
 
 <br clear="right"/>
 
