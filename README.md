@@ -8,46 +8,19 @@
   <a href="mailto:rachnaramakrishnan10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/rachna-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Rachna-techfr&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile views"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-```python
-class RachnaR:
-    def __init__(self):
-        self.name        = "Rachna R"
-        self.location    = "Coimbatore, Tamil Nadu 🇮🇳"
-        self.degree      = "B.Voc – AI & ML @ Avinashilingam University"
-        self.cgpa        = 8.74
-        self.status      = "Open to junior AI / GenAI Engineer roles"
+Hi, I'm **Rachna R**, a B.Voc AI & ML graduate from Avinashilingam University (CGPA **8.74**), based in Coimbatore, Tamil Nadu. I build NLP, computer vision and Generative AI projects, and I'm open to junior AI / GenAI Engineer roles.
 
-        self.stack = [
-            "Python", "Flask", "FastAPI", "OpenCV",
-            "YOLOv8", "MediaPipe", "Ollama", "LangChain",
-            "LangGraph", "RAG", "NLP", "Streamlit"
-        ]
-
-        self.currently_learning = [
-            "LangChain & Advanced RAG Pipelines",
-            "Deep Learning (CNNs, Transformers)",
-            "Docker & Cloud Deployment"
-        ]
-
-        self.fun_fact = (
-            "I built a gesture-controlled PC "
-            "that talks back to you 🖐️🔊"
-        )
-
-    def motto(self):
-        return "Build it. Break it. Learn. Repeat. 🔁"
-
-me = RachnaR()
-print(me.motto())
-```
+- 🔭 **Building:** agentic AI with LangGraph, LangChain and RAG
+- 🌱 **Learning:** Advanced RAG, Deep Learning (CNNs, Transformers), Docker & cloud deployment
+- 🛠️ **Stack:** Python, Flask, FastAPI, OpenCV, YOLOv8, MediaPipe, Ollama, Streamlit
+- ⚡ **Fun fact:** I built a gesture-controlled PC that talks back to you 🖐️🔊
+- 💬 **Motto:** *Build it. Break it. Learn. Repeat.* 🔁
 
 ---
 
