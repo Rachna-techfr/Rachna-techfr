@@ -1,25 +1,34 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=Rachna%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20NLP%20%7C%20Computer%20Vision%20%7C%20GenAI&descAlignY=62&descSize=16" width="100%"/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rachna+R+%F0%9F%91%8B;AI+%26+ML+Student+%7C+India;NLP+%7C+CV+%7C+GenAI+%F0%9F%9A%80;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rachna+R+%F0%9F%91%8B;AI+%26+ML+Engineer+%7C+India;NLP+%7C+CV+%7C+GenAI+%F0%9F%9A%80;Building+Intelligent+Systems" alt="Typing SVG" />
 </div>
 
-<br/>
+<p align="center"><b>AI &amp; ML Engineer</b> · NLP · Computer Vision · Generative AI · Agentic AI</p>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<p align="center">
+  <a href="mailto:rachnaramakrishnan10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/rachna-r"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Rachna-techfr&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile views"/>
+</p>
 
+---
 
+## 👩‍💻 About Me
+
+```python
 class RachnaR:
     def __init__(self):
         self.name        = "Rachna R"
         self.location    = "Coimbatore, Tamil Nadu 🇮🇳"
         self.degree      = "B.Voc – AI & ML @ Avinashilingam University"
-        self.cgpa        = 8.67
+        self.cgpa        = 8.74
+        self.status      = "Open to junior AI / GenAI Engineer roles"
 
         self.stack = [
-            "Python", "Flask", "OpenCV",
-            "YOLOv8", "MediaPipe", "Ollama",
-            "RAG", "NLP", "HTML/CSS/JS"
+            "Python", "Flask", "FastAPI", "OpenCV",
+            "YOLOv8", "MediaPipe", "Ollama", "LangChain",
+            "LangGraph", "RAG", "NLP", "Streamlit"
         ]
 
         self.currently_learning = [
@@ -38,13 +47,23 @@ class RachnaR:
 
 me = RachnaR()
 print(me.motto())
-
-
-<br clear="right"/>
+```
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|:--------|:------|:-----------|
+| [🧭 **Career Buddy**](https://github.com/Rachna-techfr?tab=repositories) | LangGraph · LangChain · FastAPI · Streamlit · FAISS · Groq · faster-whisper · Edge TTS | Multi-agent AI career assistant · RAG with FAISS vector search · Voice input (Whisper) + spoken replies (Edge TTS) |
+| [📚 **AI Learning Buddy**](https://github.com/Rachna-techfr/ai-learning-buddy) | Gemini 2.5 Flash · Streamlit | Capstone for the Infosys Springboard AI EMPOW(H)ER Program · AI-powered learning companion, deployed live |
+| [🤖 **Personal AI Assistant with NLP**](https://github.com/Rachna-techfr?tab=repositories) | Python · Flask · Ollama (Mistral 7B) · SpeechRecognition | Runs fully on local hardware · **88% intent recognition accuracy** · Zero external API dependency · Voice I/O + system automation |
+| [✋ **Real-Time Hand Gesture Recognition**](https://github.com/Rachna-techfr?tab=repositories) | Python · OpenCV · MediaPipe · KNN | Touchless computer control · **94% gesture classification accuracy** · Adaptive mouse control + voice feedback |
+| [🛡️ **Vision-Based Virtual AI Security Guard**](https://github.com/Rachna-techfr?tab=repositories) | YOLOv8 · DeepSort · Flask · OpenCV | Real-time AI surveillance · **91% detection accuracy** · Adaptive learning module + dashboard with alerts |
+
+---
+
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -57,139 +76,85 @@ print(me.motto())
 **AI / ML / GenAI**
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama%20(Mistral)-1A1A2E?style=flat-square&logo=ollama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-7B2FBE?style=flat-square&logo=semanticweb&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00897B?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7B2FBE?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00897B?style=flat-square&logoColor=white)
 
-**Frameworks & Libraries**
+**Frameworks & Tools**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-**Tools & DevOps**
-
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/Rachna-techfr">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rachna-techfr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/Rachna-techfr">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachna-techfr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
-</div>
-
----
-
-### 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rachna-techfr&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
----
-
-### 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rachna-techfr&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-### 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rachna-techfr&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-</div>
-
----
-
-### 💼 Work Experience
+## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Gateway Software Solutions — Generative AI & Prompt Engineering Intern</b> &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; India</summary>
+<summary><b>🏢 Gateway Software Solutions — Generative AI & Prompt Engineering Intern</b></summary>
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative%20AI-7B2FBE?style=flat-square&logo=openai&logoColor=white) ![LLM](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=huggingface&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00897B?style=flat-square&logo=openai&logoColor=white)
-
 - Developed and deployed **Generative AI applications** integrating LLMs into real-world workflows.
-- Designed and optimized prompts that measurably improved LLM response accuracy and relevance.
+- Designed and optimized prompts that improved LLM response accuracy and relevance.
 - Gained hands-on experience with LLM integration patterns and generative pipeline architecture.
 
 </details>
 
 <details>
-<summary><b>🏢 Accent Techno Soft — Python with Django Intern</b> &nbsp;|&nbsp; 2024 &nbsp;|&nbsp; India</summary>
+<summary><b>🏢 Accent Techno Soft — Python with Django Intern</b> | Apr – May 2026</summary>
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
 - Built backend modules using **Python and Django** for production web applications.
-- Assisted in application testing, debugging, and ensuring code quality across the development lifecycle.
+- Assisted in application testing, debugging, and code quality.
 - Gained practical experience in MVC architecture, ORM queries, and REST-based web development.
+
+</details>
+
+<details>
+<summary><b>🏢 Amdox Technologies — Data Science & Analytics Intern</b></summary>
+
+<br/>
+
+- Worked on data analysis and analytics tasks as part of a Data Science internship.
+- Applied Python-based data handling and visualization to derive insights from datasets.
 
 </details>
 
 ---
 
-### 🚀 Featured Projects
+## 🏅 Achievements & Certifications
 
-<div align="center">
-
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| [🤖 **Personal AI Assistant with NLP**](https://github.com/Rachna-techfr) | Python · Flask · Ollama (Mistral) | Locally hosted voice + text assistant · **88% intent recognition accuracy** · Zero external API dependency · Speech recognition + system automation |
-| [✋ **Real-Time Hand Gesture Recognition**](https://github.com/Rachna-techfr) | Python · OpenCV · MediaPipe · KNN | Touchless computer control system · **94% gesture classification accuracy** · Real-time mouse control + voice feedback |
-| [🛡️ **Vision-Based Virtual AI Security Guard**](https://github.com/Rachna-techfr) | YOLOv8 · DeepSort · Flask · OpenCV | Real-time AI surveillance system · **91% human detection accuracy** · Adaptive learning + color-coded alert system |
-
-</div>
-
----
-
-### 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
+| | Achievement | Details |
+|:-:|:------------|:--------|
+| 🌟 | **Infosys Springboard — AI EMPOW(H)ER Program** | Built the AI Learning Buddy capstone project |
 | 🤖 | **GenAI & Prompt Engineering Workshop** | Accent Techno Soft — LLMs & Prompt Engineering |
 | 🧠 | **Design Thinking & Agentic AI Bootcamp** | SNS Institutions — Agentic AI workflows |
 | ⚡ | **Gen AI Engineering Mastermind** | Outskill — Advanced Generative AI engineering |
-| 🎓 | **B.Voc AIML — CGPA 8.67/10** | Avinashilingam University (2023–2026) |
-
-</div>
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| B.Voc – Artificial Intelligence & Machine Learning | Avinashilingam University | 2023 – 2026 | 8.67 / 10 |
-| Higher Secondary (12th) | Government Higher Secondary School | 2023 | — |
-| Secondary (10th) | Government Higher Secondary School | 2021 | — |
-
-</div>
+| Degree | Institution | Year | CGPA |
+|:-------|:------------|:----:|:----:|
+| B.Voc – Artificial Intelligence & Machine Learning | Avinashilingam University, Coimbatore | 2023 – 2026 | **8.74 / 10** |
 
 ---
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 ```
 🔗 LangChain         → Agents, Chains, Memory, Tool Calling
@@ -201,22 +166,15 @@ print(me.motto())
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="mailto:rachnaramakrishnan10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/rachna-r">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Rachna-techfr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Rachna-techfr&style=flat-square&color=70a5fd&label=Profile+Views"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rachna-techfr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachna-techfr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10" alt="Top languages"/>
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<p align="center">
+  <i>Open to junior AI Engineer / Generative AI Engineer opportunities — let's connect! 🤝</i>
+</p>
